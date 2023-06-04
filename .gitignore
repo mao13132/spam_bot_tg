@@ -1,1 +1,4 @@
 auth/
+telegram/__pycache__/
+pars_members/
+.idea/
